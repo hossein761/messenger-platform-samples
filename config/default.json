@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "2fe073e85b23d7ba3e7411856658f5cb",
+    "pageAccessToken": "EAARt445E9KsBAEVxYdSOxxvwB8IzrZA2iztNaRQjcpTFWnGvxqlQkTgyIz8PLHYXiPHXyPULZC8xZBhGt1tVK7m7FGD0fkX1niFuB9Pm4Rk7i0OGkHCHFkDZCHttqiQtU3Tv7WFC70C0xbOQgVeE38AuBHndzaZC7dGBgzZBwZBxwZDZD",
+    "validationToken": "validate_me_as_a_webhook",
+    "serverURL": "https://desolate-refuge-28753.herokuapp.com/"
 }
